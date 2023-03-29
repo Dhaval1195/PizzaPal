@@ -1,0 +1,83 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.SAURABH.pizza"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:40:5-43
+8        android:minSdkVersion="8"
+8-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:40:15-40
+9        android:targetSdkVersion="8" />
+9-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:40:5-43
+10
+11    <application
+11-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:6:5-39:19
+12        android:debuggable="true"
+13        android:icon="@drawable/icon"
+13-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:6:18-47
+14        android:label="@string/app_name"
+14-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:6:48-80
+15        android:testOnly="true" >
+16        <activity
+16-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:8:9-20:20
+17            android:name="com.SAURABH.pizza.SplashActivity"
+17-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:9:13-60
+18            android:exported="true" >
+18-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:10:13-36
+19            <intent-filter>
+19-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:11:13-15:29
+20                <action android:name="android.intent.action.MAIN" />
+20-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:12:17-69
+20-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:12:25-66
+21
+22                <category android:name="android.intent.category.LAUNCHER" />
+22-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:14:17-77
+22-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:14:27-74
+23            </intent-filter>
+24
+25            <meta-data
+25-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:17:13-19:36
+26                android:name="android.app.lib_name"
+26-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:18:17-52
+27                android:value="" />
+27-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:19:17-33
+28        </activity>
+29        <activity
+29-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:21:9-24:20
+30            android:name="com.SAURABH.pizza.Pizza"
+30-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:21:19-57
+31            android:label="@string/app_name" >
+31-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:22:19-51
+32        </activity>
+33        <activity
+33-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:26:9-28:20
+34            android:name="com.SAURABH.pizza.loginActivity"
+34-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:26:19-65
+35            android:label="Login" >
+35-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:27:13-34
+36        </activity>
+37        <activity
+37-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:29:9-31:20
+38            android:name="com.SAURABH.pizza.registerActivity"
+38-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:29:19-68
+39            android:label="Register" >
+39-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:30:13-37
+40        </activity>
+41        <activity
+41-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:33:9-35:20
+42            android:name="com.SAURABH.pizza.OrderPage"
+42-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:33:19-61
+43            android:label="@string/order_title" >
+43-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:34:10-45
+44        </activity>
+45        <activity
+45-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:36:9-38:20
+46            android:name="com.SAURABH.pizza.NewPizza"
+46-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:36:19-60
+47            android:label="@string/new_whole_pizza_title" >
+47-->C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:37:10-55
+48        </activity>
+49    </application>
+50
+51</manifest>

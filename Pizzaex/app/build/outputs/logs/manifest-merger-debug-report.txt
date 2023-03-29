@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:3:7-34
+		INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml
+		INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml
+		INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml
+		INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:6:5-39:19
+	android:label
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:6:48-80
+	android:icon
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:6:18-47
+activity#com.SAURABH.pizza.SplashActivity
+ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:8:9-20:20
+	android:exported
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:10:13-36
+	android:name
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:9:13-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:11:13-15:29
+action#android.intent.action.MAIN
+ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:14:27-74
+meta-data#android.app.lib_name
+ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:17:13-19:36
+	android:value
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:19:17-33
+	android:name
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:18:17-52
+activity#com.SAURABH.pizza.Pizza
+ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:21:9-24:20
+	android:label
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:22:19-51
+	android:name
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:21:19-57
+activity#com.SAURABH.pizza.loginActivity
+ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:26:9-28:20
+	android:label
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:27:13-34
+	android:name
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:26:19-65
+activity#com.SAURABH.pizza.registerActivity
+ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:29:9-31:20
+	android:label
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:29:19-68
+activity#com.SAURABH.pizza.OrderPage
+ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:33:9-35:20
+	android:label
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:34:10-45
+	android:name
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:33:19-61
+activity#com.SAURABH.pizza.NewPizza
+ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:36:9-38:20
+	android:label
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:37:10-55
+	android:name
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:36:19-60
+uses-sdk
+ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:40:5-43
+INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:40:5-43
+INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:40:5-43
+INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:40:5-43
+INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:40:5-43
+	android:targetSdkVersion
+		INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:40:5-43
+		INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml:40:15-40
+		INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml
+		INJECTED from C:\COMP304\Pizzaex\app\src\main\AndroidManifest.xml

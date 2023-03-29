@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".BrainChallenge">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_launcher_foreground" />
+    <CheckBox
+        android:id="@+id/checkBoxLose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lose things" />
+
+    <CheckBox
+        android:id="@+id/checkBoxNames"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Remember names" />
+
+    <CheckBox
+        android:id="@+id/checkBoxQuickly"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Learn things quickly" />
+
+    <CheckBox
+        android:id="@+id/checkBoxThings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Keep track of multiple things" />
+
+    <Button
+        android:id="@+id/nextButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Next" />
+
+</LinearLayout>

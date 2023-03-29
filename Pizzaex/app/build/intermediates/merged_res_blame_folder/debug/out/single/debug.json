@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_mozzarella.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\mozzarella.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_pizza_palor_orange.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\pizza_palor_orange.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_jalapenopeppers.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\jalapenopeppers.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_sausage.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\sausage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_greenpeppers.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\greenpeppers.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_bacon.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\bacon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_pineapple.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\pineapple.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_equalizer.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\equalizer.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_avatar.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_pepperoni.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\pepperoni.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\layout_pizza_design.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\layout\\pizza_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_bananapepper.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\bananapepper.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_question.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\question.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\layout_new_pizza.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\layout\\new_pizza.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_anchovies.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\anchovies.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_shopping.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\shopping.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "com.SAURABH.pizza.app-merged_res-5:/layout_main.xml.flat",
+        "source": "com.SAURABH.pizza.app-main-7:/layout/main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable-hdpi_layoutu.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable-hdpi\\layoutu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable-hdpi_gifp.gif.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable-hdpi\\gifp.gif"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_chicken.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\chicken.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_exit.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_tomatoes.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\tomatoes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_ham.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\ham.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_onion.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\onion.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\layout_order_page.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\layout\\order_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_stop.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_blackolives.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\blackolives.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_more.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\layout_listview.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\layout\\listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_happy.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\happy.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable_mushrooms.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable\\mushrooms.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\drawable-hdpi_pizzapal.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\drawable-hdpi\\pizzapal.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-merged_res-5:\\layout_main.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.SAURABH.pizza.app-main-7:\\layout\\main.xml"
+    }
+]

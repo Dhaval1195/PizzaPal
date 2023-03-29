@@ -1,0 +1,8 @@
+com.SAURABH.pizza.app-pngs-0 C:\COMP304\Pizzaex\app\build\generated\res\pngs\debug
+com.SAURABH.pizza.app-resValues-1 C:\COMP304\Pizzaex\app\build\generated\res\resValues\debug
+com.SAURABH.pizza.app-rs-2 C:\COMP304\Pizzaex\app\build\generated\res\rs\debug
+com.SAURABH.pizza.app-mergeDebugResources-3 C:\COMP304\Pizzaex\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.SAURABH.pizza.app-mergeDebugResources-4 C:\COMP304\Pizzaex\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.SAURABH.pizza.app-merged_res-5 C:\COMP304\Pizzaex\app\build\intermediates\merged_res\debug
+com.SAURABH.pizza.app-debug-6 C:\COMP304\Pizzaex\app\src\debug\res
+com.SAURABH.pizza.app-main-7 C:\COMP304\Pizzaex\app\src\main\res

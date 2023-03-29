@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KinjalkumariDhimmar_COMP304Sec004_Test01</string>
+
+
+    <string-array name="memoryCycle">
+        <item>90</item>
+        <item>120</item>
+        <item>90</item>
+        <item>120</item>
+
+        <item>90</item>
+        <item>120</item>
+        <item>90</item>
+        <item>120</item>
+        <item>90</item>
+
+
+    </string-array>
+</resources>
