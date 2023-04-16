@@ -1,0 +1,30 @@
+<section class="orders light-section">
+  <div class="container mx-auto pt-12">
+    <h1 class="font-bold text-lg mb-4">Dashboard</h1>
+
+    <div class="grid grid-cols-1 gap-10 lg:grid-cols-3 p-10">
+      <a
+        class="text-center p-10 bg-purple-600 text-white rounded"
+        href="/admin/orders"
+      >
+        <div class="text-7xl font-bold"><%= totalOrder %></div>
+        <div class="text-2xl mt-5">Orders</div>
+      </a>
+
+      <a
+        class="text-center p-10 bg-orange-400 text-white rounded"
+        href="/admin/users"
+      >
+        <div class="text-7xl font-bold"><%= totalUser %></div>
+        <div class="text-2xl mt-5">Users</div>
+      </a>
+      <a
+        class="text-center p-10 bg-blue-600 text-white rounded"
+        href="/admin/menus"
+      >
+        <div class="text-7xl font-bold"><%= totalMenu %></div>
+        <div class="text-2xl mt-5">Menus</div>
+      </a>
+    </div>
+  </div>
+</section>

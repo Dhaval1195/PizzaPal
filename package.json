@@ -1,0 +1,40 @@
+{
+  "name": "react-real-time-pizza-order-app",
+  "version": "1.0.0",
+  "description": "Its a Pizza order apps user can order Pizza and see the status and admin can add items see and update it and upload the image and change the order status too, and can see user list and block the user",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "development": "mix watch",
+    "start": "node index.js"
+  },
+  
+  "dependencies": {
+    "axios": "^1.2.1",
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "connect-mongo": "^4.6.0",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1",
+    "express-flash": "^0.0.2",
+    "express-session": "^1.17.3",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.0",
+    "noty": "^3.2.0-beta-deprecated",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "socket.io": "^4.5.4",
+    "multer": "^1.4.5-lts.1",
+    "uuid": "3.4.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "laravel-mix": "^6.0.49",
+    "nodemon": "^2.0.20",
+    "resolve-url-loader": "5.0.0",
+    "sass": "^1.56.2",
+    "sass-loader": "12.1.0"
+  }
+}

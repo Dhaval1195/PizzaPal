@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Realtime Pizza Booking App</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link
+      rel="stylesheet"
+      href="https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/css/all.min.css"
+    />
+    <link rel="stylesheet" href="/css/app.css" />
+  </head>
+  <body>
+    <nav class="container mx-auto flex items-center justify-between py-4">
+      <div>
+        <a href="/">
+          <img src="/img/logo.png" alt="logo" />
+        </a>
+      </div>
+      <div>
+        <ul class="flex items-center font-bold">
+          <li class="ml-6"><a href="/">Menu</a></li>
+          <% if(!user) { %>
+          <li class="ml-6"><a href="/register">Register</a></li>
+          <li class="ml-6"><a href="/login">Login</a></li>
+          <% }else{ %>
+
+          <li class="ml-6"><a href="/customer/orders">Order</a></li>
+          <% if(user.role == "admin"){ %>
+          <li class="ml-6"><a href="/admin">Admin Dashboard</a></li>
+          <% } %>
+          <li class="ml-6">
+            <form action="/logout" method="post" id="logout">
+              <a href="#" onclick="document.getElementById('logout').submit()"
+                >Logout</a
+              >
+            </form>
+          </li>
+          <% } %>
+          <li class="ml-6">
+            <a
+              href="/cart"
+              class="inline-block px-4 py-2 rounded-full flex items-center"
+              ><span id="cartCounter" class="text-white font-bold"
+                ><%= session.cart? session.cart.totalQty : "0" %></span
+              >
+              <img src="/img/cart.png" alt="cart"
+            /></a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <%- body %>
+    <footer
+      class="container mx-auto flex items-center justify-between py-4 text-gray-500"
+    >
+      &copy; <%= new Date().getFullYear() %> All Right Reserved, Real Time
+      Pizza.
+    </footer>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/js/app.js"></script>
+  </body>
+</html>

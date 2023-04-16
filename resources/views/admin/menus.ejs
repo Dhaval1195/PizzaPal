@@ -1,0 +1,51 @@
+<section class="orders light-section">
+  <div class="container mx-auto pt-12">
+    <div class="flex items-center justify-between">
+      <h1 class="font-bold text-lg mb-4">All Menus</h1>
+      <div>
+        <a
+          href="/admin/menus/create"
+          class="rounded-full bg-orange-600 font-bold text-white px-3 py-2 hover:bg-orange-800 transition duration-300"
+          >Add New</a
+        >
+      </div>
+    </div>
+    <table class="w-full table-auto bg-white">
+      <thead>
+        <tr>
+          <th class="border px-4 py-2 text-left">#</th>
+          <th class="border px-4 py-2 text-left">Name</th>
+          <th class="border px-4 py-2 text-left">Image</th>
+          <th class="border px-4 py-2 text-left">Price</th>
+          <th class="border px-4 py-2 text-left">Size</th>
+          <th class="border px-4 py-2 text-left">Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% menus.forEach((menu, index)=>{%>
+        <tr>
+          <td class="border px-4 py-2"><%= Number(index)+1 %></td>
+          <td class="border px-4 py-2"><%= menu.name %></td>
+          <td class="border px-4 py-2">
+            <img src="/upload/<%= menu.image %>" width="50px" />
+          </td>
+          <td class="border px-4 py-2">₹<%= menu.price %>.00</td>
+          <td class="border px-4 py-2 uppercase"><%= menu.size %></td>
+          <td class="border px-4 py-2" width="10%">
+            <a
+              class="underline text-blue-600 mr-5"
+              href="/admin/menus/<%= menu.id %>/edit"
+              >Edit</a
+            >
+            <a
+              class="underline text-red-600 mr-5"
+              href="/admin/menus/<%= menu.id %>/delete"
+              >Delete</a
+            >
+          </td>
+        </tr>
+        <% })%>
+      </tbody>
+    </table>
+  </div>
+</section>

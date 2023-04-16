@@ -1,0 +1,82 @@
+<section class="orders light-section">
+  <div class="container mx-auto pt-12">
+    <h1 class="font-bold text-lg mb-4">Create Menu</h1>
+    <div class="w-full max-w-md m-auto">
+      <form
+        id="createMenu"
+        class="bg-white shadow-md border rounded px-8 pt-6 pb-8 mb-4"
+        method="post"
+        action="/admin/menus/save"
+        enctype="multipart/form-data"
+      >
+        <div class="mb-4">
+          <label class="block tyext-gray-700 text-sm font-bold mb-2" for="name"
+            >Name</label
+          >
+          <input
+            class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+            id="name"
+            autocomplete="off"
+            type="text"
+            name="name"
+            value="<%=messages.name%>"
+            placeholder="Enter  Name"
+          />
+        </div>
+        <div class="mb-4">
+          <label class="block tyext-gray-700 text-sm font-bold mb-2" for="image"
+            >Image</label
+          >
+          <input
+            class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+            id="image"
+            autocomplete="off"
+            type="file"
+            name="image"
+            value="<%=messages.name%>"
+          />
+        </div>
+        <div class="mb-4">
+          <label class="block tyext-gray-700 text-sm font-bold mb-2" for="price"
+            >Price</label
+          >
+          <input
+            class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+            id="price"
+            autocomplete="off"
+            type="number"
+            name="price"
+            value="<%=messages.name%>"
+            placeholder="Enter Price"
+          />
+        </div>
+        <div class="mb-4">
+          <label class="block tyext-gray-700 text-sm font-bold mb-2" for="size"
+            >Size</label
+          >
+          <select
+            class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+            id="size"
+            autocomplete="off"
+            type="text"
+            name="size"
+            value="<%=messages.name%>"
+            placeholder="Enter Your Name"
+          >
+            <option value="small">Small</option>
+            <option value="medium">Medium</option>
+            <option value="large">Large</option>
+          </select>
+        </div>
+        <div class="flex items-center justify-between">
+          <button
+            class="btn-primary hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full focus:outline-none focus:shadow-outline w-full"
+            type="submit"
+          >
+            Save
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
