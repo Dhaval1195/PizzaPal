@@ -7,10 +7,3 @@ Getting Started
 To get started, you will need to clone this repository to your local machine. You will also need to have Node.js, npm, and MongoDB installed on your machine.
 
 Once you have cloned the repository and installed the necessary dependencies, you can run the app by navigating to the root directory of the project and starting the server and client.
-
-To start the server, run the following command:
-
-npm install
-
-
-npm run dev
